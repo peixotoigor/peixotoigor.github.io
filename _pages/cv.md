@@ -21,37 +21,21 @@ Educação
 
 Experiências Profissionais 
 ======
-
+* Professor de Física, E. E. Melquíades Batista de Miranda - 2023
+Carmo do Cajuru, MG
+  * Planejamento de conteúdos serem ministrados para turmas de 1º, 2º e 3º ano do Ensino médio.
+  * Elaboração de atividades intra e extra aula, com viés pedagógico baseado em jogos e ferramentas digitais.
+  * Atividades envolvendo práticas experimentais.
+  * Preenchimento de diário eletrônico.
+  * Participação de reuniões.
 
 
   
 Habilidades
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python, Quantum Espresso, Abinit, Vesta, Machine Learning.
 
-#Publications
-#======
-#  <ul>{% for post in site.publications reversed %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
-  
-#Talks
-#======
-#  <ul>{% for post in site.talks reversed %}
-#    {% include archive-single-talk-cv.html  %}
-#  {% endfor %}</ul>
-  
-#Teaching
-#======
-#  <ul>{% for post in site.teaching reversed %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
-  
+
 Prêmios e Gratificações
 ======
 * Menção honrosa pelo trabalho,
