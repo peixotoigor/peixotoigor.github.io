@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Currículo"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,12 +8,13 @@ redirect_from:
 ---
 
 {% include base_path %}
+<div align="center"> Igor Peixoto Rodrigues, Mestre em Física </div>
+<div align="center"> igorpeixoto_@outlook.com.br | (37) 99123-8945 | https://peixotoigor.github.io/ </div>
 
-Education
+Educação
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Mestrado em Física, Universidade Federal de Juiz de Fora, 2020-2023
+* Física Computacional Bacharelado, Universidade Federal de São João del Rei, 2015-2019
 
 Work experience
 ======
@@ -59,6 +60,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Prêmios e Gratificações
 ======
-* Currently signed in to 43 different slack teams
+* Menção honrosa pelo trabalho,
+  Estudo das Propriedades de Nanoestruturas BxCyNz com simetria helicoidal.
