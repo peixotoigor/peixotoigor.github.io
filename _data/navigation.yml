@@ -1,16 +1,16 @@
 # main links links
 main:
+  - title: "Portfólio"
+    url: /portfolio/
+
+    - title: "Arquivos de Aulas"
+    url: /teaching/  
+    
   - title: "Publicações"
     url: /publications/
 
 #  - title: "Talks"
 #    url: /talks/    
-
-  - title: "Arquivos de Aulas"
-    url: /teaching/    
-    
-  - title: "Portfólio"
-    url: /portfolio/
         
   - title: "Blog Posts"
     url: /year-archive/
