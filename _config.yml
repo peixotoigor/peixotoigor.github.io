@@ -22,13 +22,13 @@ repository               : "https://peixotoigor.github.io/"
 author:
   # Biographic information
   avatar           : "avatar.jpeg"
-  name             : "Your Sidebar Name"
+  name             : "Igor Peixoto"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Physics | Data Science | Machine Learning | Materials Informatics"
+  location         : "Carmo do Cajuru, Brasil"
+  employer         : 
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "igorpeixoto_@outlook.com.br" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
