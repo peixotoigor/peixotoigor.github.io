@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Contact"
+title: "Contato"
 permalink: /contact/
 author_profile: true
 ---
@@ -8,10 +8,8 @@ author_profile: true
 {% include base_path %}
 
 
-Please feel free to reach out if you have questions about my work. I'm also always happy to discuss molecular design and discovery, machine learning, condensed matter physics, and grad school.
+Fique à vontade para entrar em contato se tiver dúvidas sobre meu trabalho. Também fico sempre feliz em discutir design e descoberta molecular, aprendizado de máquina, física da matéria condensada e pós-graduação.
 
-* E-mail: frey.nathan.nf1@gene.com
-* Twitter: [nc_frey](http://twitter.com/nc_frey)
-* Google Scholar: [Nathan C. Frey](https://scholar.google.com/citations?user=IMUja60AAAAJ)
-* LinkedIn: [ncfrey](https://www.linkedin.com/in/ncfrey/)
-* Wikipedia: [NCFrey](http://en.wikipedia.org/wiki/User:NCFrey)
+* E-mail: igorpeixoto_@outlook.com.br
+* LinkedIn: [peixotoigor](www.linkedin.com/in/peixotoigor)
+* Instagram: [peixotoigor](https://www.instagram.com/igorrpeixoto)
