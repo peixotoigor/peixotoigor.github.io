@@ -3,7 +3,7 @@ main:
   - title: "Portfólio"
     url: /portfolio/
 
-    - title: "Arquivos de Aulas"
+  - title: "Arquivos de Aulas"
     url: /teaching/  
     
   - title: "Publicações"
